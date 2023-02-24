@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644968598144",
+    "project_id": "controlapp-5908f",
+    "storage_bucket": "controlapp-5908f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644968598144:android:f862153cc7fb8c2b173465",
+        "android_client_info": {
+          "package_name": "com.emaggi.controlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644968598144-i1hrlp41tislbd2rbgjsism9tbl2fqcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeKQ2W5vULMDsmhEZwvQ1LOQKxfthkin0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644968598144-i1hrlp41tislbd2rbgjsism9tbl2fqcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
