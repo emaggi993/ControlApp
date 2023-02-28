@@ -14,6 +14,12 @@
         android:theme="@style/Theme.ControlApp"
         tools:targetApi="31">
         <activity
+            android:name=".MenuPrincipalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegistroActivity"
+            android:exported="false" />
+        <activity
             android:name=".LoginActivity"
             android:exported="false" />
         <activity

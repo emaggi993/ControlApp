@@ -18,13 +18,13 @@
 
 
         <EditText
-            android:id="@+id/UsuarioET"
+            android:id="@+id/correoET"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
 
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="@string/usuario"
+            android:hint="@string/correo"
             android:layout_marginBottom="15dp"/>
 
         <EditText
@@ -32,9 +32,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="textPersonName"
+            android:inputType="textPassword"
 
-            android:text="@string/contrasenia"
+            android:hint="@string/contrasenia"
             android:layout_marginBottom="15dp"/>
 
         <Button

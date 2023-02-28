@@ -4,4 +4,9 @@
     <string name="contrasenia">Contraseña</string>
     <string name="btn_login_text">Login</string>
     <string name="btn_registrar_text">Registrarse</string>
+    <string name="correo">Correo electronico</string>
+    <string name="confirmcontrasenia">Repita la contraseña</string>
+    <string name="btn_registro">Registrar</string>
+    <string name="tengo_cuenta">Tengo una cuenta</string>
+    <string name="salir">Salir</string>
 </resources>
